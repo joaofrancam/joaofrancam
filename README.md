@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Larissa Vitória Kich, tenho 26 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Nassau e sou apaixonada por tecnologia.
+Me chamo João Pedro de França Moraes, tenho 26 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Nassau e sou apaixonada por tecnologia.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
